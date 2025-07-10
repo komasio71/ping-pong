@@ -1,4 +1,4 @@
-# Pong-Ping
+# pong-ping
 
 A simple Pong game written in Python using the `turtle` graphics library.
 
